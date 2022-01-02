@@ -7,7 +7,7 @@ Aɢᴇ = "19"
 Cᴏᴜɴᴛʀʏ = "🇮🇳"
 ```
 
-<h3 align="left"><b>My GitHub Stats🍾</b></h4>
+<h3 align="left"><b>Rₐᵢcₕᵤ Gᵢₜₕᵤb Sₜₐₜₛ🍾</b></h4>
 
 ![ꪖ᥅ꪖꪜ Git Stats](https://github-readme-stats.vercel.app/api?username=RaichuXD&include_all_commits=true&count_private=true&theme=highcontrast)
 
