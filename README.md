@@ -3,11 +3,11 @@
 ```python
 Nᴀᴍᴇ = "ꪖ᥅ꪖꪜ"
 Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
-Aɢᴇ = "19"
+Aɢᴇ = "❌"
 Cᴏᴜɴᴛʀʏ = "🇮🇳"
 ```
 
 <h3 align="left"><b>Rₐᵢcₕᵤ Gᵢₜₕᵤb Sₜₐₜₛ🍾</b></h4>
 
-![ꪖ᥅ꪖꪜ Git Stats](https://github-readme-stats.vercel.app/api?username=RaichuXD&include_all_commits=true&count_private=true&theme=highcontrast)
+![Aɾαꪜ Gιƚ Sƚαƚʂ](https://github-readme-stats.vercel.app/api?username=RaichuXD&include_all_commits=true&count_private=true&theme=highcontrast)
 
